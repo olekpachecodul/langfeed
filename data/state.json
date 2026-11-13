@@ -1,0 +1,3128 @@
+{
+ "items": {
+  "2nd Street|https://ec.2ndstreetusa.com/products/15373042745453": {
+   "category": "Outerwear",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2026-10-27T20:06:01+00:00",
+   "last_seen": "2026-11-13",
+   "price": 349.9,
+   "sold": false
+  },
+  "2nd Street|https://ec.2ndstreetusa.com/products/15383830397037": {
+   "category": "Outerwear",
+   "colours": [
+    "Black"
+   ],
+   "first_run": 0,
+   "first_seen": "2026-11-05T17:38:57+00:00",
+   "last_seen": "2026-11-13",
+   "price": 129.9,
+   "sold": true
+  },
+  "2nd Street|https://ec.2ndstreetusa.com/products/15400048820333": {
+   "category": "Outerwear",
+   "colours": [
+    "Black"
+   ],
+   "first_run": 0,
+   "first_seen": "2026-11-08T21:12:22+00:00",
+   "last_seen": "2026-11-13",
+   "price": 599.9,
+   "sold": false
+  },
+  "2nd Street|https://ec.2ndstreetusa.com/products/15403622858861": {
+   "category": "Outerwear",
+   "colours": [
+    "White"
+   ],
+   "first_run": 0,
+   "first_seen": "2026-11-10T22:19:13+00:00",
+   "last_seen": "2026-11-13",
+   "price": 349.9,
+   "sold": false
+  },
+  "2nd Street|https://ec.2ndstreetusa.com/products/15406753087597": {
+   "category": "Outerwear",
+   "colours": [
+    "Blue"
+   ],
+   "first_run": 0,
+   "first_seen": "2026-11-04T20:53:22+00:00",
+   "last_seen": "2026-11-13",
+   "price": 349.9,
+   "sold": false
+  },
+  "2nd Street|https://ec.2ndstreetusa.com/products/15406753153133": {
+   "category": "Outerwear",
+   "colours": [
+    "Black"
+   ],
+   "first_run": 0,
+   "first_seen": "2026-11-04T20:13:40+00:00",
+   "last_seen": "2026-11-13",
+   "price": 249.9,
+   "sold": false
+  },
+  "2nd Street|https://ec.2ndstreetusa.com/products/15413399945325": {
+   "category": "Outerwear",
+   "colours": [
+    "Yellow"
+   ],
+   "first_run": 0,
+   "first_seen": "2026-10-28T15:55:23+00:00",
+   "last_seen": "2026-11-13",
+   "price": 129.9,
+   "sold": false
+  },
+  "2nd Street|https://ec.2ndstreetusa.com/products/15416077287533": {
+   "category": "Bottoms",
+   "colours": [
+    "White"
+   ],
+   "first_run": 0,
+   "first_seen": "2026-11-08T19:23:18+00:00",
+   "last_seen": "2026-11-13",
+   "price": 229.9,
+   "sold": false
+  },
+  "2nd Street|https://ec.2ndstreetusa.com/products/15418803880045": {
+   "category": "Bottoms",
+   "colours": [
+    "Blue"
+   ],
+   "first_run": 0,
+   "first_seen": "2026-11-01T02:01:39+00:00",
+   "last_seen": "2026-11-13",
+   "price": 129.9,
+   "sold": false
+  },
+  "2nd Street|https://ec.2ndstreetusa.com/products/15418803912813": {
+   "category": "Bottoms",
+   "colours": [
+    "White"
+   ],
+   "first_run": 0,
+   "first_seen": "2026-11-01T01:58:34+00:00",
+   "last_seen": "2026-11-13",
+   "price": 129.9,
+   "sold": false
+  },
+  "2nd Street|https://ec.2ndstreetusa.com/products/15425836613741": {
+   "category": "Outerwear",
+   "colours": [
+    "Black"
+   ],
+   "first_run": 0,
+   "first_seen": "2026-11-08T21:33:48+00:00",
+   "last_seen": "2026-11-13",
+   "price": 349.9,
+   "sold": false
+  },
+  "2nd Street|https://ec.2ndstreetusa.com/products/15425966571629": {
+   "category": "Outerwear",
+   "colours": [
+    "Black"
+   ],
+   "first_run": 0,
+   "first_seen": "2026-11-07T23:05:16+00:00",
+   "last_seen": "2026-11-13",
+   "price": 149.9,
+   "sold": false
+  },
+  "2nd Street|https://ec.2ndstreetusa.com/products/15429071143021": {
+   "category": "Bottoms",
+   "colours": [
+    "Black"
+   ],
+   "first_run": 0,
+   "first_seen": "2026-11-09T00:33:37+00:00",
+   "last_seen": "2026-11-13",
+   "price": 99.9,
+   "sold": false
+  },
+  "2nd Street|https://ec.2ndstreetusa.com/products/15438928281709": {
+   "category": "Tops",
+   "colours": [
+    "Blue"
+   ],
+   "first_run": 0,
+   "first_seen": "2026-11-12T19:59:27+00:00",
+   "last_seen": "2026-11-13",
+   "price": 149.9,
+   "sold": false
+  },
+  "2nd Street|https://ec.2ndstreetusa.com/products/7997786128493": {
+   "category": "Bottoms",
+   "colours": [
+    "Blue"
+   ],
+   "first_run": 0,
+   "first_seen": "2026-11-02T23:42:51+00:00",
+   "last_seen": "2026-11-13",
+   "price": 109.9,
+   "sold": false
+  },
+  "2nd Street|https://ec.2ndstreetusa.com/products/8042431283309": {
+   "category": "Outerwear",
+   "colours": [
+    "Black"
+   ],
+   "first_run": 0,
+   "first_seen": "2026-10-29T20:17:35+00:00",
+   "last_seen": "2026-11-13",
+   "price": 109.9,
+   "sold": true
+  },
+  "2nd Street|https://ec.2ndstreetusa.com/products/8076106104941": {
+   "category": "Tops",
+   "colours": [
+    "Black"
+   ],
+   "first_run": 0,
+   "first_seen": "2026-10-28T18:49:39+00:00",
+   "last_seen": "2026-11-13",
+   "price": 109.9,
+   "sold": false
+  },
+  "2nd Street|https://ec.2ndstreetusa.com/products/8083662110829": {
+   "category": "Tops",
+   "colours": [
+    "Black"
+   ],
+   "first_run": 0,
+   "first_seen": "2026-11-09T02:00:10+00:00",
+   "last_seen": "2026-11-13",
+   "price": 89.9,
+   "sold": false
+  },
+  "2nd Street|https://ec.2ndstreetusa.com/products/8143052636269": {
+   "category": "Bottoms",
+   "colours": [
+    "Black"
+   ],
+   "first_run": 0,
+   "first_seen": "2026-10-28T17:06:34+00:00",
+   "last_seen": "2026-11-13",
+   "price": 109.9,
+   "sold": false
+  },
+  "2nd Street|https://ec.2ndstreetusa.com/products/8149904588909": {
+   "category": "Tops",
+   "colours": [
+    "Blue"
+   ],
+   "first_run": 0,
+   "first_seen": "2026-11-04T23:17:41+00:00",
+   "last_seen": "2026-11-13",
+   "price": 109.9,
+   "sold": false
+  },
+  "2nd Street|https://ec.2ndstreetusa.com/products/8199492305005": {
+   "category": "Tops",
+   "colours": [
+    "Black",
+    "White"
+   ],
+   "first_run": 0,
+   "first_seen": "2026-10-27T20:54:14+00:00",
+   "last_seen": "2026-11-13",
+   "price": 59.9,
+   "sold": true
+  },
+  "2nd Street|https://ec.2ndstreetusa.com/products/8230361104493": {
+   "category": "Dresses",
+   "colours": [
+    "Red"
+   ],
+   "first_run": 0,
+   "first_seen": "2026-11-12T22:16:39+00:00",
+   "last_seen": "2026-11-13",
+   "price": 99.9,
+   "sold": false
+  },
+  "2nd Street|https://ec.2ndstreetusa.com/products/8235976556653": {
+   "category": "Tops",
+   "colours": [
+    "Black"
+   ],
+   "first_run": 0,
+   "first_seen": "2026-11-05T22:16:45+00:00",
+   "last_seen": "2026-11-13",
+   "price": 109.9,
+   "sold": false
+  },
+  "2nd Street|https://ec.2ndstreetusa.com/products/8239193194605": {
+   "category": "Bottoms",
+   "colours": [
+    "Black"
+   ],
+   "first_run": 0,
+   "first_seen": "2026-10-25T23:50:18+00:00",
+   "last_seen": "2026-11-13",
+   "price": 179.9,
+   "sold": false
+  },
+  "2nd Street|https://ec.2ndstreetusa.com/products/8243379535981": {
+   "category": "Bottoms",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2026-10-28T22:54:30+00:00",
+   "last_seen": "2026-11-13",
+   "price": 99.9,
+   "sold": false
+  },
+  "DRIEW|https://driewgarments.com/products/7449368887374": {
+   "category": "Tops",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2024-09-01T21:56:58+00:00",
+   "last_seen": "2026-11-13",
+   "price": 320.0,
+   "sold": true
+  },
+  "DRIEW|https://driewgarments.com/products/7457485127758": {
+   "category": "Tops",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2024-09-09T23:23:40+00:00",
+   "last_seen": "2026-11-13",
+   "price": 100.0,
+   "sold": true
+  },
+  "DRIEW|https://driewgarments.com/products/7459789045838": {
+   "category": "Bottoms",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2024-09-10T22:56:45+00:00",
+   "last_seen": "2026-11-13",
+   "price": 125.0,
+   "sold": true
+  },
+  "DRIEW|https://driewgarments.com/products/7532514574414": {
+   "category": "Tops",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2024-12-19T00:23:35+00:00",
+   "last_seen": "2026-11-13",
+   "price": 225.0,
+   "sold": true
+  },
+  "DRIEW|https://driewgarments.com/products/7558310133838": {
+   "category": "Outerwear",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2025-02-06T18:39:40+00:00",
+   "last_seen": "2026-11-13",
+   "price": 200.0,
+   "sold": true
+  },
+  "DRIEW|https://driewgarments.com/products/7574596124750": {
+   "category": "Outerwear",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2025-02-27T17:12:33+00:00",
+   "last_seen": "2026-11-13",
+   "price": 450.0,
+   "sold": true
+  },
+  "DRIEW|https://driewgarments.com/products/7586007318606": {
+   "category": "Bottoms",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2025-03-18T18:29:01+00:00",
+   "last_seen": "2026-11-13",
+   "price": 275.0,
+   "sold": true
+  },
+  "DRIEW|https://driewgarments.com/products/7586032484430": {
+   "category": "Bottoms",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2025-03-18T20:02:58+00:00",
+   "last_seen": "2026-11-13",
+   "price": 1200.0,
+   "sold": true
+  },
+  "DRIEW|https://driewgarments.com/products/7601508253774": {
+   "category": "Bottoms",
+   "colours": [
+    "Grey"
+   ],
+   "first_run": 0,
+   "first_seen": "2025-04-17T18:53:32+00:00",
+   "last_seen": "2026-11-13",
+   "price": 120.0,
+   "sold": true
+  },
+  "DRIEW|https://driewgarments.com/products/7604719288398": {
+   "category": "Bottoms",
+   "colours": [
+    "Grey"
+   ],
+   "first_run": 0,
+   "first_seen": "2025-04-23T15:18:56+00:00",
+   "last_seen": "2026-11-13",
+   "price": 175.0,
+   "sold": true
+  },
+  "DRIEW|https://driewgarments.com/products/7626323198030": {
+   "category": "Bottoms",
+   "colours": [
+    "Black"
+   ],
+   "first_run": 0,
+   "first_seen": "2025-05-22T19:05:13+00:00",
+   "last_seen": "2026-11-13",
+   "price": 225.0,
+   "sold": true
+  },
+  "DRIEW|https://driewgarments.com/products/7635169542222": {
+   "category": "Bottoms",
+   "colours": [
+    "Grey",
+    "Brown"
+   ],
+   "first_run": 0,
+   "first_seen": "2025-06-09T19:47:09+00:00",
+   "last_seen": "2026-11-13",
+   "price": 385.0,
+   "sold": true
+  },
+  "DRIEW|https://driewgarments.com/products/7685748326478": {
+   "category": "Outerwear",
+   "colours": [
+    "Grey"
+   ],
+   "first_run": 0,
+   "first_seen": "2025-08-20T22:06:29+00:00",
+   "last_seen": "2026-11-13",
+   "price": 300.0,
+   "sold": true
+  },
+  "DRIEW|https://driewgarments.com/products/7689055305806": {
+   "category": "Outerwear",
+   "colours": [
+    "Grey"
+   ],
+   "first_run": 0,
+   "first_seen": "2025-08-24T21:49:45+00:00",
+   "last_seen": "2026-11-13",
+   "price": 275.0,
+   "sold": true
+  },
+  "DRIEW|https://driewgarments.com/products/7698290999374": {
+   "category": "Outerwear",
+   "colours": [
+    "Brown"
+   ],
+   "first_run": 0,
+   "first_seen": "2025-09-06T17:34:34+00:00",
+   "last_seen": "2026-11-13",
+   "price": 300.0,
+   "sold": true
+  },
+  "DRIEW|https://driewgarments.com/products/7757657309262": {
+   "category": "Outerwear",
+   "colours": [
+    "Blue"
+   ],
+   "first_run": 0,
+   "first_seen": "2025-11-08T18:01:58+00:00",
+   "last_seen": "2026-11-13",
+   "price": 380.83,
+   "sold": true
+  },
+  "DRIEW|https://driewgarments.com/products/7769536626766": {
+   "category": "Outerwear",
+   "colours": [
+    "Grey"
+   ],
+   "first_run": 0,
+   "first_seen": "2025-11-21T23:05:40+00:00",
+   "last_seen": "2026-11-13",
+   "price": 237.5,
+   "sold": true
+  },
+  "DRIEW|https://driewgarments.com/products/7808985956430": {
+   "category": "Outerwear",
+   "colours": [
+    "Black"
+   ],
+   "first_run": 0,
+   "first_seen": "2026-01-16T23:20:50+00:00",
+   "last_seen": "2026-11-13",
+   "price": 450.0,
+   "sold": true
+  },
+  "DRIEW|https://driewgarments.com/products/7847418003534": {
+   "category": "Outerwear",
+   "colours": [
+    "Grey"
+   ],
+   "first_run": 0,
+   "first_seen": "2026-03-10T23:03:47+00:00",
+   "last_seen": "2026-11-13",
+   "price": 345.0,
+   "sold": true
+  },
+  "DRIEW|https://driewgarments.com/products/7847418036302": {
+   "category": "Bottoms",
+   "colours": [
+    "White"
+   ],
+   "first_run": 0,
+   "first_seen": "2026-03-10T23:01:16+00:00",
+   "last_seen": "2026-11-13",
+   "price": 185.0,
+   "sold": true
+  },
+  "DRIEW|https://driewgarments.com/products/7847418069070": {
+   "category": "Other",
+   "colours": [
+    "White"
+   ],
+   "first_run": 0,
+   "first_seen": "2026-03-10T22:59:48+00:00",
+   "last_seen": "2026-11-13",
+   "price": 210.0,
+   "sold": true
+  },
+  "DRIEW|https://driewgarments.com/products/7852875677774": {
+   "category": "Outerwear",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2026-03-18T00:17:56+00:00",
+   "last_seen": "2026-11-13",
+   "price": 1300.0,
+   "sold": true
+  },
+  "DRIEW|https://driewgarments.com/products/7901410099278": {
+   "category": "Outerwear",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2026-05-03T23:02:05+00:00",
+   "last_seen": "2026-11-13",
+   "price": 1500.0,
+   "sold": true
+  },
+  "DRIEW|https://driewgarments.com/products/8170195419214": {
+   "category": "Bottoms",
+   "colours": [
+    "Black"
+   ],
+   "first_run": 0,
+   "first_seen": "2026-10-27T17:50:39+00:00",
+   "last_seen": "2026-11-13",
+   "price": 920.0,
+   "sold": true
+  },
+  "DRIEW|https://driewgarments.com/products/8170195615822": {
+   "category": "Outerwear",
+   "colours": [
+    "Black"
+   ],
+   "first_run": 0,
+   "first_seen": "2026-10-27T17:49:22+00:00",
+   "last_seen": "2026-11-13",
+   "price": 5600.0,
+   "sold": true
+  },
+  "Descry Archive|https://www.descryarchive.com/products/10089964175544": {
+   "category": "Bottoms",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2025-09-12T19:12:22+00:00",
+   "last_seen": "2026-11-13",
+   "price": 750.0,
+   "sold": false
+  },
+  "Descry Archive|https://www.descryarchive.com/products/7174645645496": {
+   "category": "Other",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2022-07-11T00:34:48+00:00",
+   "last_seen": "2026-11-13",
+   "price": 325.0,
+   "sold": false
+  },
+  "Descry Archive|https://www.descryarchive.com/products/7200486326456": {
+   "category": "Other",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2022-08-19T02:10:39+00:00",
+   "last_seen": "2026-11-13",
+   "price": 600.0,
+   "sold": true
+  },
+  "Descry Archive|https://www.descryarchive.com/products/7201021329592": {
+   "category": "Tops",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2022-08-20T20:19:43+00:00",
+   "last_seen": "2026-11-13",
+   "price": 200.0,
+   "sold": true
+  },
+  "Descry Archive|https://www.descryarchive.com/products/7201022181560": {
+   "category": "Bottoms",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2022-08-20T20:25:47+00:00",
+   "last_seen": "2026-11-13",
+   "price": 1000.0,
+   "sold": false
+  },
+  "Descry Archive|https://www.descryarchive.com/products/7220000325816": {
+   "category": "Tops",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2022-10-07T17:55:01+00:00",
+   "last_seen": "2026-11-13",
+   "price": 185.0,
+   "sold": true
+  },
+  "Descry Archive|https://www.descryarchive.com/products/7225812680888": {
+   "category": "Bottoms",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2022-10-20T14:48:19+00:00",
+   "last_seen": "2026-11-13",
+   "price": 500.0,
+   "sold": true
+  },
+  "Descry Archive|https://www.descryarchive.com/products/7227882602680": {
+   "category": "Outerwear",
+   "colours": [
+    "Green"
+   ],
+   "first_run": 0,
+   "first_seen": "2022-10-25T01:53:51+00:00",
+   "last_seen": "2026-11-13",
+   "price": 600.0,
+   "sold": true
+  },
+  "Descry Archive|https://www.descryarchive.com/products/7249314349240": {
+   "category": "Tops",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2022-12-21T04:23:23+00:00",
+   "last_seen": "2026-11-13",
+   "price": 375.0,
+   "sold": true
+  },
+  "Descry Archive|https://www.descryarchive.com/products/7253829419192": {
+   "category": "Other",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2023-01-03T22:17:33+00:00",
+   "last_seen": "2026-11-13",
+   "price": 700.0,
+   "sold": false
+  },
+  "Descry Archive|https://www.descryarchive.com/products/7287032807608": {
+   "category": "Tops",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2023-04-27T02:02:18+00:00",
+   "last_seen": "2026-11-13",
+   "price": 325.0,
+   "sold": true
+  },
+  "Descry Archive|https://www.descryarchive.com/products/7291053342904": {
+   "category": "Tops",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2024-08-19T23:16:15+00:00",
+   "last_seen": "2026-11-13",
+   "price": 400.0,
+   "sold": true
+  },
+  "Descry Archive|https://www.descryarchive.com/products/7294530322616": {
+   "category": "Bottoms",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2023-06-06T02:43:44+00:00",
+   "last_seen": "2026-11-13",
+   "price": 550.0,
+   "sold": true
+  },
+  "Descry Archive|https://www.descryarchive.com/products/7298571731128": {
+   "category": "Bottoms",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2023-06-23T03:23:41+00:00",
+   "last_seen": "2026-11-13",
+   "price": 500.0,
+   "sold": false
+  },
+  "Descry Archive|https://www.descryarchive.com/products/7302867583160": {
+   "category": "Outerwear",
+   "colours": [
+    "Green"
+   ],
+   "first_run": 0,
+   "first_seen": "2023-07-24T01:15:33+00:00",
+   "last_seen": "2026-11-13",
+   "price": 700.0,
+   "sold": false
+  },
+  "Descry Archive|https://www.descryarchive.com/products/7307139023032": {
+   "category": "Other",
+   "colours": [
+    "Grey"
+   ],
+   "first_run": 0,
+   "first_seen": "2023-08-24T01:48:04+00:00",
+   "last_seen": "2026-11-13",
+   "price": 500.0,
+   "sold": false
+  },
+  "Descry Archive|https://www.descryarchive.com/products/7315111575736": {
+   "category": "Other",
+   "colours": [
+    "Yellow"
+   ],
+   "first_run": 0,
+   "first_seen": "2023-09-26T14:56:27+00:00",
+   "last_seen": "2026-11-13",
+   "price": 310.0,
+   "sold": true
+  },
+  "Descry Archive|https://www.descryarchive.com/products/7444244332728": {
+   "category": "Outerwear",
+   "colours": [
+    "Green"
+   ],
+   "first_run": 0,
+   "first_seen": "2024-02-07T18:01:16+00:00",
+   "last_seen": "2026-11-13",
+   "price": 600.0,
+   "sold": false
+  },
+  "Descry Archive|https://www.descryarchive.com/products/7451185873080": {
+   "category": "Outerwear",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2024-02-18T01:10:53+00:00",
+   "last_seen": "2026-11-13",
+   "price": 1000.0,
+   "sold": true
+  },
+  "Descry Archive|https://www.descryarchive.com/products/9187979100344": {
+   "category": "Outerwear",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2024-08-11T23:25:03+00:00",
+   "last_seen": "2026-11-13",
+   "price": 1200.0,
+   "sold": false
+  },
+  "Descry Archive|https://www.descryarchive.com/products/9882578321592": {
+   "category": "Outerwear",
+   "colours": [
+    "Grey"
+   ],
+   "first_run": 0,
+   "first_seen": "2025-01-06T03:05:38+00:00",
+   "last_seen": "2026-11-13",
+   "price": 1200.0,
+   "sold": true
+  },
+  "ENDYMA|https://endyma.com/products/8486270864": {
+   "category": "Tops",
+   "colours": [
+    "Green"
+   ],
+   "first_run": 0,
+   "first_seen": "2017-05-22T19:31:02+00:00",
+   "last_seen": "2026-11-13",
+   "price": 285.0,
+   "sold": true
+  },
+  "ENDYMA|https://endyma.com/products/8532719760": {
+   "category": "Tops",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2017-05-22T19:31:02+00:00",
+   "last_seen": "2026-11-13",
+   "price": 385.0,
+   "sold": true
+  },
+  "ENDYMA|https://endyma.com/products/8558807824": {
+   "category": "Tops",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2017-05-22T19:31:02+00:00",
+   "last_seen": "2026-11-13",
+   "price": 200.0,
+   "sold": true
+  },
+  "ENDYMA|https://endyma.com/products/8567587536": {
+   "category": "Tops",
+   "colours": [
+    "Green"
+   ],
+   "first_run": 0,
+   "first_seen": "2017-05-22T19:31:03+00:00",
+   "last_seen": "2026-11-13",
+   "price": 215.0,
+   "sold": true
+  },
+  "ENDYMA|https://endyma.com/products/8567928080": {
+   "category": "Tops",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2017-05-22T19:31:03+00:00",
+   "last_seen": "2026-11-13",
+   "price": 200.0,
+   "sold": true
+  },
+  "ENDYMA|https://endyma.com/products/8581144080": {
+   "category": "Tops",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2017-05-22T19:31:03+00:00",
+   "last_seen": "2026-11-13",
+   "price": 195.0,
+   "sold": true
+  },
+  "ENDYMA|https://endyma.com/products/8581653840": {
+   "category": "Tops",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2017-05-22T19:31:03+00:00",
+   "last_seen": "2026-11-13",
+   "price": 645.0,
+   "sold": true
+  },
+  "ENDYMA|https://endyma.com/products/8582045968": {
+   "category": "Outerwear",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2017-05-22T19:31:03+00:00",
+   "last_seen": "2026-11-13",
+   "price": 345.0,
+   "sold": false
+  },
+  "ENDYMA|https://endyma.com/products/8582201232": {
+   "category": "Tops",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2017-05-22T19:31:03+00:00",
+   "last_seen": "2026-11-13",
+   "price": 255.0,
+   "sold": true
+  },
+  "ENDYMA|https://endyma.com/products/8592224912": {
+   "category": "Tops",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2017-05-22T19:31:03+00:00",
+   "last_seen": "2026-11-13",
+   "price": 265.0,
+   "sold": true
+  },
+  "ENDYMA|https://endyma.com/products/8609362064": {
+   "category": "Tops",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2017-05-22T19:31:04+00:00",
+   "last_seen": "2026-11-13",
+   "price": 265.0,
+   "sold": true
+  },
+  "ENDYMA|https://endyma.com/products/8609601232": {
+   "category": "Tops",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2017-05-22T19:31:04+00:00",
+   "last_seen": "2026-11-13",
+   "price": 210.0,
+   "sold": true
+  },
+  "ENDYMA|https://endyma.com/products/8634880208": {
+   "category": "Tops",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2017-05-22T19:31:04+00:00",
+   "last_seen": "2026-11-13",
+   "price": 395.0,
+   "sold": true
+  },
+  "ENDYMA|https://endyma.com/products/8640858000": {
+   "category": "Tops",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2017-05-22T19:31:04+00:00",
+   "last_seen": "2026-11-13",
+   "price": 140.0,
+   "sold": true
+  },
+  "ENDYMA|https://endyma.com/products/8642543312": {
+   "category": "Tops",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2017-05-22T19:31:04+00:00",
+   "last_seen": "2026-11-13",
+   "price": 225.0,
+   "sold": true
+  },
+  "ENDYMA|https://endyma.com/products/8695061008": {
+   "category": "Tops",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2017-05-22T19:31:04+00:00",
+   "last_seen": "2026-11-13",
+   "price": 160.0,
+   "sold": true
+  },
+  "ENDYMA|https://endyma.com/products/8695411408": {
+   "category": "Bags & accessories",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2017-05-22T19:31:04+00:00",
+   "last_seen": "2026-11-13",
+   "price": 220.0,
+   "sold": false
+  },
+  "ENDYMA|https://endyma.com/products/8696122576": {
+   "category": "Tops",
+   "colours": [
+    "Blue"
+   ],
+   "first_run": 0,
+   "first_seen": "2017-05-22T19:31:05+00:00",
+   "last_seen": "2026-11-13",
+   "price": 245.0,
+   "sold": true
+  },
+  "ENDYMA|https://endyma.com/products/8733493584": {
+   "category": "Tops",
+   "colours": [
+    "Purple"
+   ],
+   "first_run": 0,
+   "first_seen": "2017-05-22T19:31:05+00:00",
+   "last_seen": "2026-11-13",
+   "price": 245.0,
+   "sold": true
+  },
+  "ENDYMA|https://endyma.com/products/8733887568": {
+   "category": "Tops",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2017-05-22T19:31:05+00:00",
+   "last_seen": "2026-11-13",
+   "price": 580.0,
+   "sold": false
+  },
+  "ENDYMA|https://endyma.com/products/8760612752": {
+   "category": "Tops",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2017-05-22T19:31:05+00:00",
+   "last_seen": "2026-11-13",
+   "price": 200.0,
+   "sold": true
+  },
+  "ENDYMA|https://endyma.com/products/8762165264": {
+   "category": "Tops",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2017-05-22T19:31:05+00:00",
+   "last_seen": "2026-11-13",
+   "price": 200.0,
+   "sold": true
+  },
+  "ENDYMA|https://endyma.com/products/8770313488": {
+   "category": "Tops",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2017-05-22T19:31:05+00:00",
+   "last_seen": "2026-11-13",
+   "price": 195.0,
+   "sold": true
+  },
+  "ENDYMA|https://endyma.com/products/8785827600": {
+   "category": "Tops",
+   "colours": [
+    "Grey"
+   ],
+   "first_run": 0,
+   "first_seen": "2017-05-22T19:31:05+00:00",
+   "last_seen": "2026-11-13",
+   "price": 210.0,
+   "sold": true
+  },
+  "ENDYMA|https://endyma.com/products/8786329168": {
+   "category": "Tops",
+   "colours": [
+    "Green",
+    "Yellow"
+   ],
+   "first_run": 0,
+   "first_seen": "2017-05-22T19:31:06+00:00",
+   "last_seen": "2026-11-13",
+   "price": 440.0,
+   "sold": true
+  },
+  "Elevated Archives|https://elevated-archives.com/products/15972547952975": {
+   "category": "Outerwear",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2026-02-26T17:24:54+00:00",
+   "last_seen": "2026-11-13",
+   "price": 2200.0,
+   "sold": true
+  },
+  "Elevated Archives|https://elevated-archives.com/products/15999317246287": {
+   "category": "Outerwear",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2026-03-16T17:27:29+00:00",
+   "last_seen": "2026-11-13",
+   "price": 180.0,
+   "sold": false
+  },
+  "Elevated Archives|https://elevated-archives.com/products/15999317737807": {
+   "category": "Bottoms",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2026-03-16T17:27:38+00:00",
+   "last_seen": "2026-11-13",
+   "price": 150.0,
+   "sold": false
+  },
+  "Elevated Archives|https://elevated-archives.com/products/16007021986127": {
+   "category": "Bottoms",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2026-03-20T16:29:48+00:00",
+   "last_seen": "2026-11-13",
+   "price": 200.0,
+   "sold": true
+  },
+  "Elevated Archives|https://elevated-archives.com/products/16007022248271": {
+   "category": "Bottoms",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2026-03-20T16:29:54+00:00",
+   "last_seen": "2026-11-13",
+   "price": 220.0,
+   "sold": true
+  },
+  "Elevated Archives|https://elevated-archives.com/products/16032553107791": {
+   "category": "Bottoms",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2026-04-01T17:22:17+00:00",
+   "last_seen": "2026-11-13",
+   "price": 300.0,
+   "sold": true
+  },
+  "Elevated Archives|https://elevated-archives.com/products/16032555401551": {
+   "category": "Outerwear",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2026-04-01T17:22:28+00:00",
+   "last_seen": "2026-11-13",
+   "price": 1500.0,
+   "sold": true
+  },
+  "Elevated Archives|https://elevated-archives.com/products/16047607710031": {
+   "category": "Outerwear",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2026-04-10T17:25:46+00:00",
+   "last_seen": "2026-11-13",
+   "price": 2500.0,
+   "sold": true
+  },
+  "Elevated Archives|https://elevated-archives.com/products/16152489197903": {
+   "category": "Bottoms",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2026-06-14T16:00:38+00:00",
+   "last_seen": "2026-11-13",
+   "price": 180.0,
+   "sold": true
+  },
+  "Elevated Archives|https://elevated-archives.com/products/16152489656655": {
+   "category": "Bottoms",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2026-06-14T16:00:58+00:00",
+   "last_seen": "2026-11-13",
+   "price": 180.0,
+   "sold": false
+  },
+  "Elevated Archives|https://elevated-archives.com/products/16152490148175": {
+   "category": "Outerwear",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2026-06-14T16:01:10+00:00",
+   "last_seen": "2026-11-13",
+   "price": 500.0,
+   "sold": true
+  },
+  "Elevated Archives|https://elevated-archives.com/products/16159549391183": {
+   "category": "Tops",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2026-06-20T16:39:38+00:00",
+   "last_seen": "2026-11-13",
+   "price": 180.0,
+   "sold": true
+  },
+  "Elevated Archives|https://elevated-archives.com/products/16240634069327": {
+   "category": "Outerwear",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2026-07-24T18:32:33+00:00",
+   "last_seen": "2026-11-13",
+   "price": 850.0,
+   "sold": true
+  },
+  "Elevated Archives|https://elevated-archives.com/products/16283339653455": {
+   "category": "Outerwear",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2026-08-19T15:51:40+00:00",
+   "last_seen": "2026-11-13",
+   "price": 400.0,
+   "sold": false
+  },
+  "Elevated Archives|https://elevated-archives.com/products/16308943290703": {
+   "category": "Tops",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2026-09-04T17:54:14+00:00",
+   "last_seen": "2026-11-13",
+   "price": 250.0,
+   "sold": true
+  },
+  "Elevated Archives|https://elevated-archives.com/products/16316271690063": {
+   "category": "Bottoms",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2026-09-11T17:07:30+00:00",
+   "last_seen": "2026-11-13",
+   "price": 150.0,
+   "sold": true
+  },
+  "Elevated Archives|https://elevated-archives.com/products/16341811888463": {
+   "category": "Bottoms",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2026-09-24T15:20:02+00:00",
+   "last_seen": "2026-11-13",
+   "price": 220.0,
+   "sold": true
+  },
+  "Elevated Archives|https://elevated-archives.com/products/16360287273295": {
+   "category": "Bottoms",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2026-10-01T17:16:39+00:00",
+   "last_seen": "2026-11-13",
+   "price": 250.0,
+   "sold": true
+  },
+  "Elevated Archives|https://elevated-archives.com/products/16360287666511": {
+   "category": "Outerwear",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2026-10-01T17:16:45+00:00",
+   "last_seen": "2026-11-13",
+   "price": 750.0,
+   "sold": true
+  },
+  "Elevated Archives|https://elevated-archives.com/products/16360287830351": {
+   "category": "Bottoms",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2026-10-01T17:16:49+00:00",
+   "last_seen": "2026-11-13",
+   "price": 250.0,
+   "sold": true
+  },
+  "Elevated Archives|https://elevated-archives.com/products/16360288321871": {
+   "category": "Bottoms",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2026-10-01T17:16:56+00:00",
+   "last_seen": "2026-11-13",
+   "price": 550.0,
+   "sold": true
+  },
+  "Elevated Archives|https://elevated-archives.com/products/16379639759183": {
+   "category": "Outerwear",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2026-10-09T17:45:26+00:00",
+   "last_seen": "2026-11-13",
+   "price": 800.0,
+   "sold": false
+  },
+  "Elevated Archives|https://elevated-archives.com/products/16379641102671": {
+   "category": "Outerwear",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2026-10-09T17:45:48+00:00",
+   "last_seen": "2026-11-13",
+   "price": 2000.0,
+   "sold": true
+  },
+  "Elevated Archives|https://elevated-archives.com/products/16394044866895": {
+   "category": "Bottoms",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2026-10-18T18:05:42+00:00",
+   "last_seen": "2026-11-13",
+   "price": 260.0,
+   "sold": true
+  },
+  "Elevated Archives|https://elevated-archives.com/products/16427727225167": {
+   "category": "Bottoms",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2026-10-28T17:32:47+00:00",
+   "last_seen": "2026-11-13",
+   "price": 200.0,
+   "sold": false
+  },
+  "Groupie|https://groupie.store/products/15396786766057": {
+   "category": "Bottoms",
+   "colours": [
+    "Brown"
+   ],
+   "first_run": 0,
+   "first_seen": "2026-10-02T19:00:27+00:00",
+   "last_seen": "2026-11-13",
+   "price": 350.0,
+   "sold": true
+  },
+  "Groupie|https://groupie.store/products/15411275038953": {
+   "category": "Bottoms",
+   "colours": [
+    "Black"
+   ],
+   "first_run": 0,
+   "first_seen": "2026-10-16T19:00:15+00:00",
+   "last_seen": "2026-11-13",
+   "price": 350.0,
+   "sold": true
+  },
+  "Groupie|https://groupie.store/products/8056923816169": {
+   "category": "Bags & accessories",
+   "colours": [
+    "Green"
+   ],
+   "first_run": 0,
+   "first_seen": "2026-07-30T00:28:38+00:00",
+   "last_seen": "2026-11-13",
+   "price": 495.0,
+   "sold": true
+  },
+  "Groupie|https://groupie.store/products/8423942127849": {
+   "category": "Outerwear",
+   "colours": [
+    "Brown"
+   ],
+   "first_run": 0,
+   "first_seen": "2026-07-29T23:52:18+00:00",
+   "last_seen": "2026-11-13",
+   "price": 1189.0,
+   "sold": true
+  },
+  "Groupie|https://groupie.store/products/8727395860713": {
+   "category": "Bottoms",
+   "colours": [
+    "Black"
+   ],
+   "first_run": 0,
+   "first_seen": "2026-07-29T23:42:14+00:00",
+   "last_seen": "2026-11-13",
+   "price": 1500.0,
+   "sold": true
+  },
+  "Groupie|https://groupie.store/products/9363697500393": {
+   "category": "Bottoms",
+   "colours": [
+    "Blue"
+   ],
+   "first_run": 0,
+   "first_seen": "2026-08-07T19:49:55+00:00",
+   "last_seen": "2026-11-13",
+   "price": 195.0,
+   "sold": false
+  },
+  "Huiben|https://huibenshop.com/products/3881567551549": {
+   "category": "Bags & accessories",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2019-08-09T21:41:26+00:00",
+   "last_seen": "2026-11-13",
+   "price": 480.0,
+   "sold": true
+  },
+  "Huiben|https://huibenshop.com/products/3881568174141": {
+   "category": "Bags & accessories",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2019-08-09T21:41:26+00:00",
+   "last_seen": "2026-11-13",
+   "price": 7777.0,
+   "sold": false
+  },
+  "Huiben|https://huibenshop.com/products/3942983893053": {
+   "category": "Outerwear",
+   "colours": [
+    "Green"
+   ],
+   "first_run": 0,
+   "first_seen": "2019-08-09T21:41:26+00:00",
+   "last_seen": "2026-11-13",
+   "price": 335.0,
+   "sold": true
+  },
+  "Huiben|https://huibenshop.com/products/3945776316477": {
+   "category": "Tops",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2019-08-09T21:41:27+00:00",
+   "last_seen": "2026-11-13",
+   "price": 7777.0,
+   "sold": false
+  },
+  "Huiben|https://huibenshop.com/products/3946523164733": {
+   "category": "Bags & accessories",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2019-08-09T21:41:27+00:00",
+   "last_seen": "2026-11-13",
+   "price": 9999.0,
+   "sold": false
+  },
+  "Huiben|https://huibenshop.com/products/3946529062973": {
+   "category": "Bags & accessories",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2019-08-09T21:41:27+00:00",
+   "last_seen": "2026-11-13",
+   "price": 9999.0,
+   "sold": false
+  },
+  "Huiben|https://huibenshop.com/products/3946534043709": {
+   "category": "Bags & accessories",
+   "colours": [
+    "White"
+   ],
+   "first_run": 0,
+   "first_seen": "2019-08-09T21:41:28+00:00",
+   "last_seen": "2026-11-13",
+   "price": 9999.0,
+   "sold": true
+  },
+  "Huiben|https://huibenshop.com/products/3947053121597": {
+   "category": "Outerwear",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2019-08-09T21:41:28+00:00",
+   "last_seen": "2026-11-13",
+   "price": 770.0,
+   "sold": true
+  },
+  "Huiben|https://huibenshop.com/products/3947059970109": {
+   "category": "Bags & accessories",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2019-08-09T21:41:28+00:00",
+   "last_seen": "2026-11-13",
+   "price": 15.0,
+   "sold": true
+  },
+  "Huiben|https://huibenshop.com/products/3947103649853": {
+   "category": "Outerwear",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2019-08-09T21:41:29+00:00",
+   "last_seen": "2026-11-13",
+   "price": 420.0,
+   "sold": true
+  },
+  "Huiben|https://huibenshop.com/products/3948794085437": {
+   "category": "Dresses",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2019-08-09T22:12:03+00:00",
+   "last_seen": "2026-11-13",
+   "price": 175.0,
+   "sold": true
+  },
+  "Huiben|https://huibenshop.com/products/3949369458749": {
+   "category": "Tops",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2019-08-11T05:44:56+00:00",
+   "last_seen": "2026-11-13",
+   "price": 7777.0,
+   "sold": false
+  },
+  "Huiben|https://huibenshop.com/products/3949569114173": {
+   "category": "Bottoms",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2019-08-11T19:51:48+00:00",
+   "last_seen": "2026-11-13",
+   "price": 50.0,
+   "sold": true
+  },
+  "Huiben|https://huibenshop.com/products/3954703925309": {
+   "category": "Dresses",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2019-08-16T19:50:02+00:00",
+   "last_seen": "2026-11-13",
+   "price": 9999.0,
+   "sold": true
+  },
+  "Huiben|https://huibenshop.com/products/4336950247485": {
+   "category": "Tops",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2019-11-06T19:25:06+00:00",
+   "last_seen": "2026-11-13",
+   "price": 525.0,
+   "sold": true
+  },
+  "Huiben|https://huibenshop.com/products/4509374087229": {
+   "category": "Bottoms",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2020-07-07T16:46:33+00:00",
+   "last_seen": "2026-11-13",
+   "price": 350.0,
+   "sold": true
+  },
+  "Huiben|https://huibenshop.com/products/4807017070653": {
+   "category": "Outerwear",
+   "colours": [
+    "Grey"
+   ],
+   "first_run": 0,
+   "first_seen": "2020-09-23T16:07:54+00:00",
+   "last_seen": "2026-11-13",
+   "price": 580.0,
+   "sold": true
+  },
+  "Huiben|https://huibenshop.com/products/4808264876093": {
+   "category": "Outerwear",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2020-09-24T16:36:11+00:00",
+   "last_seen": "2026-11-13",
+   "price": 500.0,
+   "sold": true
+  },
+  "Huiben|https://huibenshop.com/products/4813201113149": {
+   "category": "Outerwear",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2020-09-29T22:18:06+00:00",
+   "last_seen": "2026-11-13",
+   "price": 600.0,
+   "sold": true
+  },
+  "Huiben|https://huibenshop.com/products/6544948002877": {
+   "category": "Outerwear",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2021-03-15T17:40:05+00:00",
+   "last_seen": "2026-11-13",
+   "price": 8888.0,
+   "sold": true
+  },
+  "Huiben|https://huibenshop.com/products/6574966407229": {
+   "category": "Bottoms",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2021-05-24T03:18:02+00:00",
+   "last_seen": "2026-11-13",
+   "price": 8888.0,
+   "sold": true
+  },
+  "Huiben|https://huibenshop.com/products/6591639027773": {
+   "category": "Bottoms",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2021-07-05T01:36:55+00:00",
+   "last_seen": "2026-11-13",
+   "price": 300.0,
+   "sold": true
+  },
+  "Huiben|https://huibenshop.com/products/6597416615997": {
+   "category": "Bottoms",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2021-07-19T19:06:09+00:00",
+   "last_seen": "2026-11-13",
+   "price": 450.0,
+   "sold": true
+  },
+  "Huiben|https://huibenshop.com/products/6638145241149": {
+   "category": "Bottoms",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2021-11-04T20:17:03+00:00",
+   "last_seen": "2026-11-13",
+   "price": 1100.0,
+   "sold": true
+  },
+  "Huiben|https://huibenshop.com/products/6718170988605": {
+   "category": "Outerwear",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2022-02-14T17:26:03+00:00",
+   "last_seen": "2026-11-13",
+   "price": 450.0,
+   "sold": true
+  },
+  "Justin Reed|https://justinreed.com/products/10071300211002": {
+   "category": "Footwear",
+   "colours": [
+    "Black"
+   ],
+   "first_run": 0,
+   "first_seen": "2025-11-21T20:49:41+00:00",
+   "last_seen": "2026-11-13",
+   "price": 600.0,
+   "sold": true
+  },
+  "Justin Reed|https://justinreed.com/products/10071799791930": {
+   "category": "Bottoms",
+   "colours": [
+    "Black"
+   ],
+   "first_run": 0,
+   "first_seen": "2025-11-21T20:51:05+00:00",
+   "last_seen": "2026-11-13",
+   "price": 450.0,
+   "sold": true
+  },
+  "Justin Reed|https://justinreed.com/products/10166078964026": {
+   "category": "Outerwear",
+   "colours": [
+    "Brown"
+   ],
+   "first_run": 0,
+   "first_seen": "2026-01-22T22:46:42+00:00",
+   "last_seen": "2026-11-13",
+   "price": 700.0,
+   "sold": true
+  },
+  "Justin Reed|https://justinreed.com/products/10212692951354": {
+   "category": "Bottoms",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2026-02-27T20:57:15+00:00",
+   "last_seen": "2026-11-13",
+   "price": 300.0,
+   "sold": true
+  },
+  "Justin Reed|https://justinreed.com/products/10257622106426": {
+   "category": "Tops",
+   "colours": [
+    "Blue"
+   ],
+   "first_run": 0,
+   "first_seen": "2026-04-03T19:46:22+00:00",
+   "last_seen": "2026-11-13",
+   "price": 250.0,
+   "sold": false
+  },
+  "Justin Reed|https://justinreed.com/products/10262124822842": {
+   "category": "Footwear",
+   "colours": [
+    "Brown"
+   ],
+   "first_run": 0,
+   "first_seen": "2026-04-10T19:46:39+00:00",
+   "last_seen": "2026-11-13",
+   "price": 450.0,
+   "sold": false
+  },
+  "Justin Reed|https://justinreed.com/products/10262126166330": {
+   "category": "Footwear",
+   "colours": [
+    "Red"
+   ],
+   "first_run": 0,
+   "first_seen": "2026-04-10T19:46:40+00:00",
+   "last_seen": "2026-11-13",
+   "price": 200.0,
+   "sold": false
+  },
+  "Justin Reed|https://justinreed.com/products/10342851510586": {
+   "category": "Bottoms",
+   "colours": [
+    "Blue"
+   ],
+   "first_run": 0,
+   "first_seen": "2026-07-03T19:47:50+00:00",
+   "last_seen": "2026-11-13",
+   "price": 800.0,
+   "sold": true
+  },
+  "Justin Reed|https://justinreed.com/products/8240974102842": {
+   "category": "Bottoms",
+   "colours": [
+    "Black"
+   ],
+   "first_run": 0,
+   "first_seen": "2026-05-14T17:52:47+00:00",
+   "last_seen": "2026-11-13",
+   "price": 640.0,
+   "sold": false
+  },
+  "Justin Reed|https://justinreed.com/products/9474047902010": {
+   "category": "Outerwear",
+   "colours": [
+    "Black"
+   ],
+   "first_run": 0,
+   "first_seen": "2024-08-02T20:53:04+00:00",
+   "last_seen": "2026-11-13",
+   "price": 200.0,
+   "sold": true
+  },
+  "Justin Reed|https://justinreed.com/products/9475977838906": {
+   "category": "Outerwear",
+   "colours": [
+    "Blue"
+   ],
+   "first_run": 0,
+   "first_seen": "2024-08-02T20:52:05+00:00",
+   "last_seen": "2026-11-13",
+   "price": 100.0,
+   "sold": true
+  },
+  "Justin Reed|https://justinreed.com/products/9509671960890": {
+   "category": "Outerwear",
+   "colours": [
+    "Green"
+   ],
+   "first_run": 0,
+   "first_seen": "2024-08-23T20:25:50+00:00",
+   "last_seen": "2026-11-13",
+   "price": 600.0,
+   "sold": true
+  },
+  "Justin Reed|https://justinreed.com/products/9665542783290": {
+   "category": "Bottoms",
+   "colours": [
+    "Black"
+   ],
+   "first_run": 0,
+   "first_seen": "2024-09-20T20:29:21+00:00",
+   "last_seen": "2026-11-13",
+   "price": 450.0,
+   "sold": true
+  },
+  "Justin Reed|https://justinreed.com/products/9692887777594": {
+   "category": "Tops",
+   "colours": [
+    "White"
+   ],
+   "first_run": 0,
+   "first_seen": "2024-09-27T20:05:47+00:00",
+   "last_seen": "2026-11-13",
+   "price": 125.0,
+   "sold": true
+  },
+  "Justin Reed|https://justinreed.com/products/9721115312442": {
+   "category": "Tops",
+   "colours": [
+    "Green"
+   ],
+   "first_run": 0,
+   "first_seen": "2024-11-01T20:09:26+00:00",
+   "last_seen": "2026-11-13",
+   "price": 100.0,
+   "sold": true
+  },
+  "Justin Reed|https://justinreed.com/products/9964327797050": {
+   "category": "Outerwear",
+   "colours": [
+    "Blue"
+   ],
+   "first_run": 0,
+   "first_seen": "2025-07-18T19:49:44+00:00",
+   "last_seen": "2026-11-13",
+   "price": 150.0,
+   "sold": true
+  },
+  "Justin Reed|https://justinreed.com/products/9964328386874": {
+   "category": "Outerwear",
+   "colours": [
+    "White"
+   ],
+   "first_run": 0,
+   "first_seen": "2025-07-18T19:49:45+00:00",
+   "last_seen": "2026-11-13",
+   "price": 100.0,
+   "sold": false
+  },
+  "Luke's|https://lukes.store/products/10008576229680": {
+   "category": "Bottoms",
+   "colours": [
+    "Brown"
+   ],
+   "first_run": 0,
+   "first_seen": "2025-11-06T02:02:14+00:00",
+   "last_seen": "2026-11-13",
+   "price": 200.0,
+   "sold": false
+  },
+  "Luke's|https://lukes.store/products/10049173848368": {
+   "category": "Bottoms",
+   "colours": [
+    "Brown"
+   ],
+   "first_run": 0,
+   "first_seen": "2026-01-03T23:56:04+00:00",
+   "last_seen": "2026-11-13",
+   "price": 75.0,
+   "sold": false
+  },
+  "Luke's|https://lukes.store/products/10090958913840": {
+   "category": "Bottoms",
+   "colours": [
+    "Yellow"
+   ],
+   "first_run": 0,
+   "first_seen": "2026-03-01T00:02:37+00:00",
+   "last_seen": "2026-11-13",
+   "price": 100.0,
+   "sold": false
+  },
+  "Luke's|https://lukes.store/products/15128251597104": {
+   "category": "Tops",
+   "colours": [
+    "Green"
+   ],
+   "first_run": 0,
+   "first_seen": "2026-06-10T01:01:13+00:00",
+   "last_seen": "2026-11-13",
+   "price": 100.0,
+   "sold": false
+  },
+  "Luke's|https://lukes.store/products/15130193002800": {
+   "category": "Outerwear",
+   "colours": [
+    "Black"
+   ],
+   "first_run": 0,
+   "first_seen": "2026-06-11T02:10:01+00:00",
+   "last_seen": "2026-11-13",
+   "price": 175.0,
+   "sold": false
+  },
+  "Luke's|https://lukes.store/products/15131813511472": {
+   "category": "Outerwear",
+   "colours": [
+    "Black"
+   ],
+   "first_run": 0,
+   "first_seen": "2026-06-12T02:03:54+00:00",
+   "last_seen": "2026-11-13",
+   "price": 125.0,
+   "sold": false
+  },
+  "Luke's|https://lukes.store/products/15131813806384": {
+   "category": "Tops",
+   "colours": [
+    "Red"
+   ],
+   "first_run": 0,
+   "first_seen": "2026-06-12T02:04:00+00:00",
+   "last_seen": "2026-11-13",
+   "price": 100.0,
+   "sold": false
+  },
+  "Luke's|https://lukes.store/products/15131814330672": {
+   "category": "Tops",
+   "colours": [
+    "Green"
+   ],
+   "first_run": 0,
+   "first_seen": "2026-06-12T02:04:08+00:00",
+   "last_seen": "2026-11-13",
+   "price": 100.0,
+   "sold": false
+  },
+  "Luke's|https://lukes.store/products/15133101392176": {
+   "category": "Bottoms",
+   "colours": [
+    "Brown"
+   ],
+   "first_run": 0,
+   "first_seen": "2026-06-12T23:18:56+00:00",
+   "last_seen": "2026-11-13",
+   "price": 100.0,
+   "sold": false
+  },
+  "Luke's|https://lukes.store/products/15156408058160": {
+   "category": "Outerwear",
+   "colours": [
+    "Black"
+   ],
+   "first_run": 0,
+   "first_seen": "2026-07-01T23:10:05+00:00",
+   "last_seen": "2026-11-13",
+   "price": 300.0,
+   "sold": false
+  },
+  "Luke's|https://lukes.store/products/15158617637168": {
+   "category": "Outerwear",
+   "colours": [
+    "Brown"
+   ],
+   "first_run": 0,
+   "first_seen": "2026-07-02T23:04:48+00:00",
+   "last_seen": "2026-11-13",
+   "price": 75.0,
+   "sold": false
+  },
+  "Luke's|https://lukes.store/products/15160686805296": {
+   "category": "Tops",
+   "colours": [
+    "Grey"
+   ],
+   "first_run": 0,
+   "first_seen": "2026-07-03T22:58:34+00:00",
+   "last_seen": "2026-11-13",
+   "price": 100.0,
+   "sold": false
+  },
+  "Luke's|https://lukes.store/products/15171344367920": {
+   "category": "Bags & accessories",
+   "colours": [
+    "Black"
+   ],
+   "first_run": 0,
+   "first_seen": "2026-07-09T23:02:13+00:00",
+   "last_seen": "2026-11-13",
+   "price": 125.0,
+   "sold": false
+  },
+  "Luke's|https://lukes.store/products/15195038974256": {
+   "category": "Tops",
+   "colours": [
+    "Black"
+   ],
+   "first_run": 0,
+   "first_seen": "2026-07-31T02:29:52+00:00",
+   "last_seen": "2026-11-13",
+   "price": 100.0,
+   "sold": false
+  },
+  "Luke's|https://lukes.store/products/15257979060528": {
+   "category": "Bottoms",
+   "colours": [
+    "Black"
+   ],
+   "first_run": 0,
+   "first_seen": "2026-08-29T02:18:42+00:00",
+   "last_seen": "2026-11-13",
+   "price": 75.0,
+   "sold": false
+  },
+  "Luke's|https://lukes.store/products/15319237034288": {
+   "category": "Tops",
+   "colours": [
+    "Black"
+   ],
+   "first_run": 0,
+   "first_seen": "2026-09-30T01:01:29+00:00",
+   "last_seen": "2026-11-13",
+   "price": 100.0,
+   "sold": false
+  },
+  "Luke's|https://lukes.store/products/15339229315376": {
+   "category": "Outerwear",
+   "colours": [
+    "Brown"
+   ],
+   "first_run": 0,
+   "first_seen": "2026-10-07T16:03:30+00:00",
+   "last_seen": "2026-11-13",
+   "price": 250.0,
+   "sold": false
+  },
+  "Luke's|https://lukes.store/products/15356597764400": {
+   "category": "Bottoms",
+   "colours": [
+    "Brown"
+   ],
+   "first_run": 0,
+   "first_seen": "2026-10-15T23:07:56+00:00",
+   "last_seen": "2026-11-13",
+   "price": 175.0,
+   "sold": true
+  },
+  "Luke's|https://lukes.store/products/15377572430128": {
+   "category": "Bottoms",
+   "colours": [
+    "Blue"
+   ],
+   "first_run": 0,
+   "first_seen": "2026-10-22T22:58:54+00:00",
+   "last_seen": "2026-11-13",
+   "price": 125.0,
+   "sold": false
+  },
+  "Nationalbunker|https://nationalbunker.store/products/15271646167363": {
+   "category": "Outerwear",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2026-02-23T12:06:53+00:00",
+   "last_seen": "2026-11-13",
+   "price": 1400.0,
+   "sold": true
+  },
+  "Pilgrim|https://pilgrimnyc.com/products/15691724718240": {
+   "category": "Dresses",
+   "colours": [
+    "Black"
+   ],
+   "first_run": 0,
+   "first_seen": "2026-05-16T14:12:40+00:00",
+   "last_seen": "2026-11-13",
+   "price": 210.0,
+   "sold": false
+  },
+  "Pilgrim|https://pilgrimnyc.com/products/15731557007520": {
+   "category": "Bottoms",
+   "colours": [
+    "Yellow"
+   ],
+   "first_run": 0,
+   "first_seen": "2026-05-26T20:15:48+00:00",
+   "last_seen": "2026-11-13",
+   "price": 250.0,
+   "sold": false
+  },
+  "Pilgrim|https://pilgrimnyc.com/products/15792493494432": {
+   "category": "Dresses",
+   "colours": [
+    "Grey"
+   ],
+   "first_run": 0,
+   "first_seen": "2026-07-15T15:31:12+00:00",
+   "last_seen": "2026-11-13",
+   "price": 140.0,
+   "sold": false
+  },
+  "Pilgrim|https://pilgrimnyc.com/products/15813939822752": {
+   "category": "Outerwear",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2026-08-05T13:41:28+00:00",
+   "last_seen": "2026-11-13",
+   "price": 290.0,
+   "sold": false
+  },
+  "Pilgrim|https://pilgrimnyc.com/products/15813971902624": {
+   "category": "Dresses",
+   "colours": [
+    "Black"
+   ],
+   "first_run": 0,
+   "first_seen": "2026-08-05T15:15:58+00:00",
+   "last_seen": "2026-11-13",
+   "price": 180.0,
+   "sold": false
+  },
+  "Pilgrim|https://pilgrimnyc.com/products/15815147454624": {
+   "category": "Dresses",
+   "colours": [
+    "Black"
+   ],
+   "first_run": 0,
+   "first_seen": "2026-08-06T14:37:06+00:00",
+   "last_seen": "2026-11-13",
+   "price": 180.0,
+   "sold": false
+  },
+  "Pilgrim|https://pilgrimnyc.com/products/15815201489056": {
+   "category": "Dresses",
+   "colours": [
+    "Red"
+   ],
+   "first_run": 0,
+   "first_seen": "2026-08-06T16:14:12+00:00",
+   "last_seen": "2026-11-13",
+   "price": 320.0,
+   "sold": false
+  },
+  "Pilgrim|https://pilgrimnyc.com/products/15833603211424": {
+   "category": "Dresses",
+   "colours": [
+    "Black"
+   ],
+   "first_run": 0,
+   "first_seen": "2026-08-16T14:41:44+00:00",
+   "last_seen": "2026-11-13",
+   "price": 250.0,
+   "sold": false
+  },
+  "Pilgrim|https://pilgrimnyc.com/products/15859024560288": {
+   "category": "Outerwear",
+   "colours": [
+    "Black"
+   ],
+   "first_run": 0,
+   "first_seen": "2026-09-06T13:52:18+00:00",
+   "last_seen": "2026-11-13",
+   "price": 280.0,
+   "sold": false
+  },
+  "Pilgrim|https://pilgrimnyc.com/products/15863720738976": {
+   "category": "Dresses",
+   "colours": [
+    "Black"
+   ],
+   "first_run": 0,
+   "first_seen": "2026-09-10T14:19:50+00:00",
+   "last_seen": "2026-11-13",
+   "price": 220.0,
+   "sold": false
+  },
+  "Pilgrim|https://pilgrimnyc.com/products/15877078155424": {
+   "category": "Dresses",
+   "colours": [
+    "Black"
+   ],
+   "first_run": 0,
+   "first_seen": "2026-09-18T17:02:39+00:00",
+   "last_seen": "2026-11-13",
+   "price": 290.0,
+   "sold": false
+  },
+  "Pilgrim|https://pilgrimnyc.com/products/15881951805600": {
+   "category": "Outerwear",
+   "colours": [
+    "Black"
+   ],
+   "first_run": 0,
+   "first_seen": "2026-09-20T14:40:28+00:00",
+   "last_seen": "2026-11-13",
+   "price": 240.0,
+   "sold": false
+  },
+  "Pilgrim|https://pilgrimnyc.com/products/15887713337504": {
+   "category": "Outerwear",
+   "colours": [
+    "Grey"
+   ],
+   "first_run": 0,
+   "first_seen": "2026-09-25T14:44:40+00:00",
+   "last_seen": "2026-11-13",
+   "price": 220.0,
+   "sold": false
+  },
+  "Pilgrim|https://pilgrimnyc.com/products/15887962833056": {
+   "category": "Outerwear",
+   "colours": [
+    "Blue"
+   ],
+   "first_run": 0,
+   "first_seen": "2026-09-25T19:43:19+00:00",
+   "last_seen": "2026-11-13",
+   "price": 260.0,
+   "sold": false
+  },
+  "Pilgrim|https://pilgrimnyc.com/products/15887975252128": {
+   "category": "Outerwear",
+   "colours": [
+    "Black"
+   ],
+   "first_run": 0,
+   "first_seen": "2026-09-25T20:02:09+00:00",
+   "last_seen": "2026-11-13",
+   "price": 320.0,
+   "sold": false
+  },
+  "Pilgrim|https://pilgrimnyc.com/products/15898869006496": {
+   "category": "Outerwear",
+   "colours": [
+    "Black"
+   ],
+   "first_run": 0,
+   "first_seen": "2026-10-01T14:24:07+00:00",
+   "last_seen": "2026-11-13",
+   "price": 280.0,
+   "sold": false
+  },
+  "Pilgrim|https://pilgrimnyc.com/products/15909697257632": {
+   "category": "Dresses",
+   "colours": [
+    "Grey",
+    "Red"
+   ],
+   "first_run": 0,
+   "first_seen": "2026-10-09T15:00:26+00:00",
+   "last_seen": "2026-11-13",
+   "price": 240.0,
+   "sold": false
+  },
+  "Pilgrim|https://pilgrimnyc.com/products/15925122859168": {
+   "category": "Dresses",
+   "colours": [
+    "Black"
+   ],
+   "first_run": 0,
+   "first_seen": "2026-10-17T13:35:42+00:00",
+   "last_seen": "2026-11-13",
+   "price": 280.0,
+   "sold": false
+  },
+  "Pilgrim|https://pilgrimnyc.com/products/15925184888992": {
+   "category": "Dresses",
+   "colours": [
+    "Black"
+   ],
+   "first_run": 0,
+   "first_seen": "2026-10-17T13:46:40+00:00",
+   "last_seen": "2026-11-13",
+   "price": 280.0,
+   "sold": false
+  },
+  "Pilgrim|https://pilgrimnyc.com/products/15925527707808": {
+   "category": "Dresses",
+   "colours": [
+    "Black"
+   ],
+   "first_run": 0,
+   "first_seen": "2026-10-17T14:53:18+00:00",
+   "last_seen": "2026-11-13",
+   "price": 190.0,
+   "sold": false
+  },
+  "Pilgrim|https://pilgrimnyc.com/products/15929615155360": {
+   "category": "Dresses",
+   "colours": [
+    "Black"
+   ],
+   "first_run": 0,
+   "first_seen": "2026-10-20T13:45:37+00:00",
+   "last_seen": "2026-11-13",
+   "price": 190.0,
+   "sold": false
+  },
+  "Pilgrim|https://pilgrimnyc.com/products/15940717740192": {
+   "category": "Dresses",
+   "colours": [
+    "Grey"
+   ],
+   "first_run": 0,
+   "first_seen": "2026-10-27T14:42:07+00:00",
+   "last_seen": "2026-11-13",
+   "price": 170.0,
+   "sold": false
+  },
+  "Pilgrim|https://pilgrimnyc.com/products/15943115473056": {
+   "category": "Tops",
+   "colours": [
+    "Black"
+   ],
+   "first_run": 0,
+   "first_seen": "2026-10-28T14:07:18+00:00",
+   "last_seen": "2026-11-13",
+   "price": 170.0,
+   "sold": false
+  },
+  "Pilgrim|https://pilgrimnyc.com/products/15959009165472": {
+   "category": "Dresses",
+   "colours": [
+    "Black"
+   ],
+   "first_run": 0,
+   "first_seen": "2026-11-06T15:01:09+00:00",
+   "last_seen": "2026-11-13",
+   "price": 290.0,
+   "sold": false
+  },
+  "Pilgrim|https://pilgrimnyc.com/products/15960383160480": {
+   "category": "Tops",
+   "colours": [
+    "Grey",
+    "Brown"
+   ],
+   "first_run": 0,
+   "first_seen": "2026-11-07T15:14:21+00:00",
+   "last_seen": "2026-11-13",
+   "price": 190.0,
+   "sold": false
+  },
+  "Resurrection|https://resurrectionvintage.com/products/4550328320132": {
+   "category": "Tops",
+   "colours": [
+    "Black"
+   ],
+   "first_run": 0,
+   "first_seen": "2020-02-12T21:29:32+00:00",
+   "last_seen": "2026-11-13",
+   "price": 295.0,
+   "sold": false
+  },
+  "Resurrection|https://resurrectionvintage.com/products/4550328385668": {
+   "category": "Bags & accessories",
+   "colours": [
+    "Black",
+    "Grey",
+    "Brown"
+   ],
+   "first_run": 0,
+   "first_seen": "2022-04-21T23:40:19+00:00",
+   "last_seen": "2026-11-13",
+   "price": 450.0,
+   "sold": false
+  },
+  "Resurrection|https://resurrectionvintage.com/products/4550331400324": {
+   "category": "Dresses",
+   "colours": [
+    "Black"
+   ],
+   "first_run": 0,
+   "first_seen": "2020-02-12T00:47:03+00:00",
+   "last_seen": "2026-11-13",
+   "price": 0.0,
+   "sold": true
+  },
+  "Resurrection|https://resurrectionvintage.com/products/4550331498628": {
+   "category": "Other",
+   "colours": [
+    "White"
+   ],
+   "first_run": 0,
+   "first_seen": "2022-04-21T21:33:06+00:00",
+   "last_seen": "2026-11-13",
+   "price": 250.0,
+   "sold": false
+  },
+  "Resurrection|https://resurrectionvintage.com/products/4550332088452": {
+   "category": "Tops",
+   "colours": [
+    "Purple"
+   ],
+   "first_run": 0,
+   "first_seen": "2020-02-14T20:11:15+00:00",
+   "last_seen": "2026-11-13",
+   "price": 350.0,
+   "sold": false
+  },
+  "Resurrection|https://resurrectionvintage.com/products/4550332186756": {
+   "category": "Dresses",
+   "colours": [
+    "Black"
+   ],
+   "first_run": 0,
+   "first_seen": "2020-02-12T00:47:04+00:00",
+   "last_seen": "2026-11-13",
+   "price": 0.0,
+   "sold": true
+  },
+  "Resurrection|https://resurrectionvintage.com/products/4550332579972": {
+   "category": "Bottoms",
+   "colours": [
+    "Black"
+   ],
+   "first_run": 0,
+   "first_seen": "2020-02-12T03:19:52+00:00",
+   "last_seen": "2026-11-13",
+   "price": 550.0,
+   "sold": false
+  },
+  "Resurrection|https://resurrectionvintage.com/products/4550332645508": {
+   "category": "Dresses",
+   "colours": [
+    "Black"
+   ],
+   "first_run": 0,
+   "first_seen": "2020-02-12T00:47:05+00:00",
+   "last_seen": "2026-11-13",
+   "price": 0.0,
+   "sold": true
+  },
+  "Resurrection|https://resurrectionvintage.com/products/4550332743812": {
+   "category": "Footwear",
+   "colours": [
+    "Black"
+   ],
+   "first_run": 0,
+   "first_seen": "2022-04-21T20:30:53+00:00",
+   "last_seen": "2026-11-13",
+   "price": 850.0,
+   "sold": false
+  },
+  "Resurrection|https://resurrectionvintage.com/products/4550332842116": {
+   "category": "Footwear",
+   "colours": [
+    "Black"
+   ],
+   "first_run": 0,
+   "first_seen": "2022-04-21T20:31:53+00:00",
+   "last_seen": "2026-11-13",
+   "price": 850.0,
+   "sold": false
+  },
+  "Resurrection|https://resurrectionvintage.com/products/4550332874884": {
+   "category": "Footwear",
+   "colours": [
+    "Black"
+   ],
+   "first_run": 0,
+   "first_seen": "2022-04-21T20:31:27+00:00",
+   "last_seen": "2026-11-13",
+   "price": 850.0,
+   "sold": false
+  },
+  "Resurrection|https://resurrectionvintage.com/products/4550333300868": {
+   "category": "Bags & accessories",
+   "colours": [
+    "White"
+   ],
+   "first_run": 0,
+   "first_seen": "2022-04-21T23:37:31+00:00",
+   "last_seen": "2026-11-13",
+   "price": 850.0,
+   "sold": false
+  },
+  "Resurrection|https://resurrectionvintage.com/products/4550333628548": {
+   "category": "Dresses",
+   "colours": [
+    "White",
+    "Brown"
+   ],
+   "first_run": 0,
+   "first_seen": "2020-02-12T00:47:06+00:00",
+   "last_seen": "2026-11-13",
+   "price": 1200.0,
+   "sold": false
+  },
+  "Resurrection|https://resurrectionvintage.com/products/4550334152836": {
+   "category": "Tops",
+   "colours": [
+    "White"
+   ],
+   "first_run": 0,
+   "first_seen": "2020-02-12T23:47:06+00:00",
+   "last_seen": "2026-11-13",
+   "price": 0.0,
+   "sold": true
+  },
+  "Resurrection|https://resurrectionvintage.com/products/5535193759901": {
+   "category": "Tops",
+   "colours": [
+    "Grey",
+    "Blue"
+   ],
+   "first_run": 0,
+   "first_seen": "2020-08-22T23:25:39+00:00",
+   "last_seen": "2026-11-13",
+   "price": 650.0,
+   "sold": false
+  },
+  "Resurrection|https://resurrectionvintage.com/products/5535408488605": {
+   "category": "Tops",
+   "colours": [
+    "White"
+   ],
+   "first_run": 0,
+   "first_seen": "2020-08-23T04:01:35+00:00",
+   "last_seen": "2026-11-13",
+   "price": 650.0,
+   "sold": false
+  },
+  "Resurrection|https://resurrectionvintage.com/products/5535420121245": {
+   "category": "Tops",
+   "colours": [
+    "White",
+    "Blue"
+   ],
+   "first_run": 0,
+   "first_seen": "2020-08-23T04:15:57+00:00",
+   "last_seen": "2026-11-13",
+   "price": 650.0,
+   "sold": false
+  },
+  "Resurrection|https://resurrectionvintage.com/products/7703717904640": {
+   "category": "Bags & accessories",
+   "colours": [
+    "Black"
+   ],
+   "first_run": 0,
+   "first_seen": "2022-04-21T22:29:07+00:00",
+   "last_seen": "2026-11-13",
+   "price": 650.0,
+   "sold": false
+  },
+  "Resurrection|https://resurrectionvintage.com/products/7703747264768": {
+   "category": "Bags & accessories",
+   "colours": [
+    "Yellow"
+   ],
+   "first_run": 0,
+   "first_seen": "2022-04-21T22:41:17+00:00",
+   "last_seen": "2026-11-13",
+   "price": 450.0,
+   "sold": false
+  },
+  "Resurrection|https://resurrectionvintage.com/products/7703784718592": {
+   "category": "Bags & accessories",
+   "colours": [
+    "Red"
+   ],
+   "first_run": 0,
+   "first_seen": "2022-04-21T23:11:06+00:00",
+   "last_seen": "2026-11-13",
+   "price": 450.0,
+   "sold": false
+  },
+  "Resurrection|https://resurrectionvintage.com/products/8347748696320": {
+   "category": "Outerwear",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2023-12-13T06:36:18+00:00",
+   "last_seen": "2026-11-13",
+   "price": 1400.0,
+   "sold": false
+  },
+  "Resurrection|https://resurrectionvintage.com/products/8815308734720": {
+   "category": "Dresses",
+   "colours": [
+    "Black"
+   ],
+   "first_run": 0,
+   "first_seen": "2024-07-31T03:44:31+00:00",
+   "last_seen": "2026-11-13",
+   "price": 0.0,
+   "sold": true
+  },
+  "Resurrection|https://resurrectionvintage.com/products/9443826467072": {
+   "category": "Tops",
+   "colours": [
+    "Black"
+   ],
+   "first_run": 0,
+   "first_seen": "2026-05-12T03:01:56+00:00",
+   "last_seen": "2026-11-13",
+   "price": 375.0,
+   "sold": false
+  },
+  "Resurrection|https://resurrectionvintage.com/products/9578242441472": {
+   "category": "Dresses",
+   "colours": [
+    "Black"
+   ],
+   "first_run": 0,
+   "first_seen": "2026-08-05T22:49:21+00:00",
+   "last_seen": "2026-11-13",
+   "price": 1650.0,
+   "sold": false
+  },
+  "Resurrection|https://resurrectionvintage.com/products/9627555168512": {
+   "category": "Tops",
+   "colours": [
+    "Black"
+   ],
+   "first_run": 0,
+   "first_seen": "2026-09-10T13:36:30+00:00",
+   "last_seen": "2026-11-13",
+   "price": 750.0,
+   "sold": false
+  },
+  "Sad\u014d Room|https://sadoroom.com/products/8545120157766": {
+   "category": "Outerwear",
+   "colours": [
+    "Black"
+   ],
+   "first_run": 0,
+   "first_seen": "2026-09-11T19:59:37+00:00",
+   "last_seen": "2026-11-13",
+   "price": 400.0,
+   "sold": true
+  },
+  "Street Commerce|https://streetcommerce.shop/products/10047189942591": {
+   "category": "Tops",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2025-08-07T17:19:10+00:00",
+   "last_seen": "2026-11-13",
+   "price": 100.0,
+   "sold": false
+  },
+  "Street Commerce|https://streetcommerce.shop/products/10176764969279": {
+   "category": "Tops",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2025-12-12T21:45:54+00:00",
+   "last_seen": "2026-11-13",
+   "price": 75.0,
+   "sold": false
+  },
+  "Street Commerce|https://streetcommerce.shop/products/10237716791615": {
+   "category": "Tops",
+   "colours": [
+    "White"
+   ],
+   "first_run": 0,
+   "first_seen": "2026-02-05T17:23:16+00:00",
+   "last_seen": "2026-11-13",
+   "price": 100.0,
+   "sold": false
+  },
+  "Street Commerce|https://streetcommerce.shop/products/10245079007551": {
+   "category": "Outerwear",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2026-04-16T20:55:58+00:00",
+   "last_seen": "2026-11-13",
+   "price": 275.0,
+   "sold": false
+  },
+  "Street Commerce|https://streetcommerce.shop/products/10266354254143": {
+   "category": "Tops",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2026-03-04T23:22:40+00:00",
+   "last_seen": "2026-11-13",
+   "price": 100.0,
+   "sold": false
+  },
+  "Street Commerce|https://streetcommerce.shop/products/10531366568255": {
+   "category": "Tops",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2026-07-25T17:36:28+00:00",
+   "last_seen": "2026-11-13",
+   "price": 75.0,
+   "sold": false
+  },
+  "Street Commerce|https://streetcommerce.shop/products/10627468755263": {
+   "category": "Bottoms",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2026-09-12T18:53:47+00:00",
+   "last_seen": "2026-11-13",
+   "price": 75.0,
+   "sold": false
+  },
+  "Street Commerce|https://streetcommerce.shop/products/10642493243711": {
+   "category": "Bottoms",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2026-09-20T18:41:42+00:00",
+   "last_seen": "2026-11-13",
+   "price": 150.0,
+   "sold": false
+  },
+  "Street Commerce|https://streetcommerce.shop/products/10642499338559": {
+   "category": "Tops",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2026-09-20T18:38:08+00:00",
+   "last_seen": "2026-11-13",
+   "price": 150.0,
+   "sold": false
+  },
+  "Street Commerce|https://streetcommerce.shop/products/10642499633471": {
+   "category": "Tops",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2026-09-20T18:35:32+00:00",
+   "last_seen": "2026-11-13",
+   "price": 150.0,
+   "sold": false
+  },
+  "Street Commerce|https://streetcommerce.shop/products/15446042378559": {
+   "category": "Tops",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2026-10-20T16:57:30+00:00",
+   "last_seen": "2026-11-13",
+   "price": 50.0,
+   "sold": false
+  },
+  "Street Commerce|https://streetcommerce.shop/products/15474880807231": {
+   "category": "Tops",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2026-10-29T22:15:06+00:00",
+   "last_seen": "2026-11-13",
+   "price": 75.0,
+   "sold": false
+  },
+  "Street Commerce|https://streetcommerce.shop/products/15480104550719": {
+   "category": "Tops",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2026-10-31T19:56:13+00:00",
+   "last_seen": "2026-11-13",
+   "price": 90.0,
+   "sold": false
+  },
+  "Street Commerce|https://streetcommerce.shop/products/15481841156415": {
+   "category": "Tops",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2026-11-01T20:58:18+00:00",
+   "last_seen": "2026-11-13",
+   "price": 100.0,
+   "sold": false
+  },
+  "Street Commerce|https://streetcommerce.shop/products/15482455032127": {
+   "category": "Outerwear",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2026-11-01T21:01:45+00:00",
+   "last_seen": "2026-11-13",
+   "price": 200.0,
+   "sold": false
+  },
+  "Street Commerce|https://streetcommerce.shop/products/15498362454335": {
+   "category": "Tops",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2026-11-10T19:20:34+00:00",
+   "last_seen": "2026-11-13",
+   "price": 75.0,
+   "sold": false
+  },
+  "Sunday Nightmare|https://sundaynightmare.com/products/15463462568171": {
+   "category": "Bottoms",
+   "colours": [
+    "White"
+   ],
+   "first_run": 0,
+   "first_seen": "2026-10-28T09:58:27+00:00",
+   "last_seen": "2026-11-13",
+   "price": 190.0,
+   "sold": false
+  },
+  "Sunday Nightmare|https://sundaynightmare.com/products/15494307086571": {
+   "category": "Outerwear",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2026-11-10T03:19:34+00:00",
+   "last_seen": "2026-11-13",
+   "price": 100.0,
+   "sold": false
+  },
+  "Sunday Nightmare|https://sundaynightmare.com/products/9722384122091": {
+   "category": "Bottoms",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2026-06-13T08:17:56+00:00",
+   "last_seen": "2026-11-13",
+   "price": 190.0,
+   "sold": false
+  },
+  "Sunday Nightmare|https://sundaynightmare.com/products/9723198406891": {
+   "category": "Bottoms",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2026-06-13T09:34:57+00:00",
+   "last_seen": "2026-11-13",
+   "price": 170.0,
+   "sold": false
+  },
+  "Sunday Nightmare|https://sundaynightmare.com/products/9741212123371": {
+   "category": "Tops",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2026-06-17T05:58:02+00:00",
+   "last_seen": "2026-11-13",
+   "price": 105.0,
+   "sold": false
+  },
+  "Sunday Nightmare|https://sundaynightmare.com/products/9782494855403": {
+   "category": "Bags & accessories",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2026-07-01T08:17:33+00:00",
+   "last_seen": "2026-11-13",
+   "price": 300.0,
+   "sold": false
+  },
+  "Sunday Nightmare|https://sundaynightmare.com/products/9782514155755": {
+   "category": "Bottoms",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2026-07-01T08:32:08+00:00",
+   "last_seen": "2026-11-13",
+   "price": 120.0,
+   "sold": false
+  },
+  "Sunday Nightmare|https://sundaynightmare.com/products/9803094819051": {
+   "category": "Outerwear",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2026-07-08T06:56:24+00:00",
+   "last_seen": "2026-11-13",
+   "price": 450.0,
+   "sold": false
+  },
+  "Sunday Nightmare|https://sundaynightmare.com/products/9806905606379": {
+   "category": "Bottoms",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2026-07-10T04:50:45+00:00",
+   "last_seen": "2026-11-13",
+   "price": 205.0,
+   "sold": false
+  },
+  "Sunday Nightmare|https://sundaynightmare.com/products/9810656231659": {
+   "category": "Bottoms",
+   "colours": [
+    "Brown"
+   ],
+   "first_run": 0,
+   "first_seen": "2026-07-13T07:15:01+00:00",
+   "last_seen": "2026-11-13",
+   "price": 200.0,
+   "sold": false
+  },
+  "Sunday Nightmare|https://sundaynightmare.com/products/9810662490347": {
+   "category": "Bottoms",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2026-07-13T07:41:00+00:00",
+   "last_seen": "2026-11-13",
+   "price": 145.0,
+   "sold": false
+  },
+  "Sunday Nightmare|https://sundaynightmare.com/products/9810714493163": {
+   "category": "Bottoms",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2026-07-13T08:37:11+00:00",
+   "last_seen": "2026-11-13",
+   "price": 165.0,
+   "sold": false
+  },
+  "Sunday Nightmare|https://sundaynightmare.com/products/9813864120555": {
+   "category": "Bottoms",
+   "colours": [
+    "Blue"
+   ],
+   "first_run": 0,
+   "first_seen": "2026-07-15T03:29:22+00:00",
+   "last_seen": "2026-11-13",
+   "price": 225.0,
+   "sold": false
+  },
+  "Sunday Nightmare|https://sundaynightmare.com/products/9816435982571": {
+   "category": "Bottoms",
+   "colours": [
+    "Blue"
+   ],
+   "first_run": 0,
+   "first_seen": "2026-07-16T08:50:03+00:00",
+   "last_seen": "2026-11-13",
+   "price": 205.0,
+   "sold": false
+  },
+  "Sunday Nightmare|https://sundaynightmare.com/products/9816438014187": {
+   "category": "Bottoms",
+   "colours": [
+    "Grey"
+   ],
+   "first_run": 0,
+   "first_seen": "2026-07-16T08:54:49+00:00",
+   "last_seen": "2026-11-13",
+   "price": 250.0,
+   "sold": false
+  },
+  "Sunday Nightmare|https://sundaynightmare.com/products/9816438964459": {
+   "category": "Bottoms",
+   "colours": [
+    "Blue"
+   ],
+   "first_run": 0,
+   "first_seen": "2026-07-16T08:56:42+00:00",
+   "last_seen": "2026-11-13",
+   "price": 100.0,
+   "sold": false
+  },
+  "Sunday Nightmare|https://sundaynightmare.com/products/9816444600555": {
+   "category": "Outerwear",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2026-07-16T09:08:59+00:00",
+   "last_seen": "2026-11-13",
+   "price": 250.0,
+   "sold": false
+  },
+  "Sunday Nightmare|https://sundaynightmare.com/products/9819099037931": {
+   "category": "Bottoms",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2026-07-17T03:55:52+00:00",
+   "last_seen": "2026-11-13",
+   "price": 200.0,
+   "sold": false
+  },
+  "Sunday Nightmare|https://sundaynightmare.com/products/9827079749867": {
+   "category": "Outerwear",
+   "colours": [
+    "Blue"
+   ],
+   "first_run": 0,
+   "first_seen": "2026-07-21T13:19:38+00:00",
+   "last_seen": "2026-11-13",
+   "price": 245.0,
+   "sold": false
+  },
+  "Sunday Nightmare|https://sundaynightmare.com/products/9898701488363": {
+   "category": "Tops",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2026-08-19T05:31:45+00:00",
+   "last_seen": "2026-11-13",
+   "price": 750.0,
+   "sold": false
+  },
+  "Sunday Nightmare|https://sundaynightmare.com/products/9902567096555": {
+   "category": "Bottoms",
+   "colours": [
+    "Black"
+   ],
+   "first_run": 0,
+   "first_seen": "2026-08-21T10:35:05+00:00",
+   "last_seen": "2026-11-13",
+   "price": 270.0,
+   "sold": false
+  },
+  "Sunday Nightmare|https://sundaynightmare.com/products/9916176040171": {
+   "category": "Outerwear",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2026-08-29T09:52:18+00:00",
+   "last_seen": "2026-11-13",
+   "price": 270.0,
+   "sold": false
+  },
+  "Sunday Nightmare|https://sundaynightmare.com/products/9916197634283": {
+   "category": "Tops",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2026-08-29T10:23:57+00:00",
+   "last_seen": "2026-11-13",
+   "price": 230.0,
+   "sold": false
+  },
+  "Sunday Nightmare|https://sundaynightmare.com/products/9944328470763": {
+   "category": "Tops",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2026-09-08T08:03:11+00:00",
+   "last_seen": "2026-11-13",
+   "price": 270.0,
+   "sold": false
+  },
+  "Sunday Nightmare|https://sundaynightmare.com/products/9957593252075": {
+   "category": "Tops",
+   "colours": [],
+   "first_run": 0,
+   "first_seen": "2026-09-17T07:52:14+00:00",
+   "last_seen": "2026-11-13",
+   "price": 95.0,
+   "sold": false
+  },
+  "VSP Consignment|https://vspconsignment.com/products/15378400116927": {
+   "category": "Footwear",
+   "colours": [
+    "Black"
+   ],
+   "first_run": 0,
+   "first_seen": "2026-10-02T21:46:52+00:00",
+   "last_seen": "2026-11-13",
+   "price": 495.0,
+   "sold": false
+  },
+  "VSP Consignment|https://vspconsignment.com/products/15402979426495": {
+   "category": "Outerwear",
+   "colours": [
+    "Black"
+   ],
+   "first_run": 0,
+   "first_seen": "2026-10-16T19:30:25+00:00",
+   "last_seen": "2026-11-13",
+   "price": 197.0,
+   "sold": true
+  },
+  "VSP Consignment|https://vspconsignment.com/products/15423595217087": {
+   "category": "Tops",
+   "colours": [
+    "Black"
+   ],
+   "first_run": 0,
+   "first_seen": "2026-10-21T21:25:13+00:00",
+   "last_seen": "2026-11-13",
+   "price": 247.0,
+   "sold": false
+  },
+  "VSP Consignment|https://vspconsignment.com/products/15426327904447": {
+   "category": "Bottoms",
+   "colours": [
+    "Black"
+   ],
+   "first_run": 0,
+   "first_seen": "2026-10-23T15:09:56+00:00",
+   "last_seen": "2026-11-13",
+   "price": 395.0,
+   "sold": false
+  },
+  "VSP Consignment|https://vspconsignment.com/products/15452582478015": {
+   "category": "Dresses",
+   "colours": [
+    "Yellow"
+   ],
+   "first_run": 0,
+   "first_seen": "2026-11-06T16:37:08+00:00",
+   "last_seen": "2026-11-13",
+   "price": 197.0,
+   "sold": false
+  },
+  "VSP Consignment|https://vspconsignment.com/products/8200781791423": {
+   "category": "Tops",
+   "colours": [
+    "Purple"
+   ],
+   "first_run": 0,
+   "first_seen": "2026-08-13T15:48:54+00:00",
+   "last_seen": "2026-11-13",
+   "price": 50.0,
+   "sold": true
+  },
+  "VSP Consignment|https://vspconsignment.com/products/8256106201279": {
+   "category": "Dresses",
+   "colours": [
+    "Grey"
+   ],
+   "first_run": 0,
+   "first_seen": "2025-12-12T21:02:16+00:00",
+   "last_seen": "2026-11-13",
+   "price": 138.5,
+   "sold": true
+  },
+  "VSP Consignment|https://vspconsignment.com/products/8282724171967": {
+   "category": "Dresses",
+   "colours": [
+    "Black"
+   ],
+   "first_run": 0,
+   "first_seen": "2026-01-23T20:47:51+00:00",
+   "last_seen": "2026-11-13",
+   "price": 345.0,
+   "sold": true
+  },
+  "VSP Consignment|https://vspconsignment.com/products/8283470889151": {
+   "category": "Outerwear",
+   "colours": [
+    "Black"
+   ],
+   "first_run": 0,
+   "first_seen": "2026-01-23T20:47:04+00:00",
+   "last_seen": "2026-11-13",
+   "price": 245.0,
+   "sold": true
+  },
+  "VSP Consignment|https://vspconsignment.com/products/8341782724799": {
+   "category": "Outerwear",
+   "colours": [
+    "Yellow"
+   ],
+   "first_run": 0,
+   "first_seen": "2026-03-10T21:36:07+00:00",
+   "last_seen": "2026-11-13",
+   "price": 345.0,
+   "sold": true
+  },
+  "VSP Consignment|https://vspconsignment.com/products/8378557137087": {
+   "category": "Bottoms",
+   "colours": [
+    "Black"
+   ],
+   "first_run": 0,
+   "first_seen": "2026-03-25T17:14:11+00:00",
+   "last_seen": "2026-11-13",
+   "price": 178.2,
+   "sold": false
+  },
+  "VSP Consignment|https://vspconsignment.com/products/8416002932927": {
+   "category": "Bottoms",
+   "colours": [
+    "Green"
+   ],
+   "first_run": 0,
+   "first_seen": "2026-04-24T16:41:14+00:00",
+   "last_seen": "2026-11-13",
+   "price": 197.0,
+   "sold": true
+  },
+  "VSP Consignment|https://vspconsignment.com/products/8424443707583": {
+   "category": "Dresses",
+   "colours": [
+    "Green"
+   ],
+   "first_run": 0,
+   "first_seen": "2026-05-01T17:43:28+00:00",
+   "last_seen": "2026-11-13",
+   "price": 197.0,
+   "sold": true
+  },
+  "VSP Consignment|https://vspconsignment.com/products/8424443740351": {
+   "category": "Dresses",
+   "colours": [
+    "Black"
+   ],
+   "first_run": 0,
+   "first_seen": "2026-05-01T17:44:42+00:00",
+   "last_seen": "2026-11-13",
+   "price": 172.9,
+   "sold": true
+  },
+  "VSP Consignment|https://vspconsignment.com/products/8438246506687": {
+   "category": "Other",
+   "colours": [
+    "Black"
+   ],
+   "first_run": 0,
+   "first_seen": "2026-05-21T21:46:59+00:00",
+   "last_seen": "2026-11-13",
+   "price": 295.0,
+   "sold": true
+  },
+  "VSP Consignment|https://vspconsignment.com/products/8449371013311": {
+   "category": "Tops",
+   "colours": [
+    "Blue"
+   ],
+   "first_run": 0,
+   "first_seen": "2026-06-03T21:51:56+00:00",
+   "last_seen": "2026-11-13",
+   "price": 125.0,
+   "sold": false
+  },
+  "VSP Consignment|https://vspconsignment.com/products/8449371046079": {
+   "category": "Bottoms",
+   "colours": [
+    "Blue"
+   ],
+   "first_run": 0,
+   "first_seen": "2026-06-03T21:51:58+00:00",
+   "last_seen": "2026-11-13",
+   "price": 195.0,
+   "sold": true
+  },
+  "VSP Consignment|https://vspconsignment.com/products/8452549869759": {
+   "category": "Dresses",
+   "colours": [
+    "Black"
+   ],
+   "first_run": 0,
+   "first_seen": "2026-06-05T17:21:42+00:00",
+   "last_seen": "2026-11-13",
+   "price": 148.2,
+   "sold": false
+  },
+  "VSP Consignment|https://vspconsignment.com/products/8457177563327": {
+   "category": "Outerwear",
+   "colours": [
+    "Black",
+    "White"
+   ],
+   "first_run": 0,
+   "first_seen": "2026-06-09T21:44:53+00:00",
+   "last_seen": "2026-11-13",
+   "price": 295.0,
+   "sold": true
+  },
+  "VSP Consignment|https://vspconsignment.com/products/8476337471679": {
+   "category": "Outerwear",
+   "colours": [
+    "Black"
+   ],
+   "first_run": 0,
+   "first_seen": "2026-06-24T16:59:32+00:00",
+   "last_seen": "2026-11-13",
+   "price": 497.0,
+   "sold": true
+  },
+  "VSP Consignment|https://vspconsignment.com/products/8548266705087": {
+   "category": "Footwear",
+   "colours": [
+    "Black"
+   ],
+   "first_run": 0,
+   "first_seen": "2026-08-11T21:08:08+00:00",
+   "last_seen": "2026-11-13",
+   "price": 345.0,
+   "sold": true
+  },
+  "VSP Consignment|https://vspconsignment.com/products/8548320051391": {
+   "category": "Bottoms",
+   "colours": [
+    "Black"
+   ],
+   "first_run": 0,
+   "first_seen": "2026-08-12T20:05:36+00:00",
+   "last_seen": "2026-11-13",
+   "price": 157.6,
+   "sold": false
+  },
+  "VSP Consignment|https://vspconsignment.com/products/8578292318399": {
+   "category": "Tops",
+   "colours": [
+    "Black"
+   ],
+   "first_run": 0,
+   "first_seen": "2026-11-06T16:41:19+00:00",
+   "last_seen": "2026-11-13",
+   "price": 295.0,
+   "sold": true
+  },
+  "VSP Consignment|https://vspconsignment.com/products/8591232860351": {
+   "category": "Outerwear",
+   "colours": [
+    "Black"
+   ],
+   "first_run": 0,
+   "first_seen": "2026-08-28T21:37:57+00:00",
+   "last_seen": "2026-11-13",
+   "price": 195.0,
+   "sold": true
+  },
+  "VSP Consignment|https://vspconsignment.com/products/8591232925887": {
+   "category": "Outerwear",
+   "colours": [
+    "Blue"
+   ],
+   "first_run": 0,
+   "first_seen": "2026-08-28T21:37:58+00:00",
+   "last_seen": "2026-11-13",
+   "price": 195.0,
+   "sold": true
+  }
+ },
+ "rates": {
+  "CAD": 1.4249,
+  "CHF": 0.83314,
+  "EUR": 0.90245
+ }
+}
